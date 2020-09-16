@@ -12,8 +12,8 @@ Add JavaScript so that:
 
 - on page load
 - fetch the images using the url above ⬆️
-- parse the response as `JSON`
-- add image elements to the DOM **for each**🤔 image in the array
+- parse the response as `JSON`age in the array
+- add image elements to the DOM **for each**🤔 im
 
 ---
 
